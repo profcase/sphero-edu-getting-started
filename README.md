@@ -1,4 +1,4 @@
-# Sphero Edu Activity 1
+# Sphero Edu - Getting Started
 
 ## Links
 
