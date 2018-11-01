@@ -129,7 +129,7 @@ async function startProgram() {
 
 ## Sphero Mini x 30
 
-![Sphero Mini x 30](https://github.com/profcase/sphero-edu-activity1/blob/master/SpheroEdu30.PNG "Sphero Mini x 30")
+![Sphero Mini x 30](https://github.com/profcase/sphero-edu-getting-started/blob/master/SpheroEdu30.PNG "Sphero Mini x 30")
 
 ## Acknowledgements
 
