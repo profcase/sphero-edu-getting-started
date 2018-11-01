@@ -2,8 +2,8 @@
 
 ## Links
 
-- [View on GitHub Pages](https://profcase.github.io/sphero-edu-activity1/)
-- [Code Repository](https://github.com/profcase/sphero-edu-activity1)
+- [View on GitHub Pages](https://profcase.github.io/sphero-edu-getting-started/)
+- [Code Repository](https://github.com/profcase/sphero-edu-getting-started)
 
 ## Sphero Edu App
 
@@ -97,7 +97,7 @@ Note: If you create a program with blocks, it will show you the JavaScript. If y
 
 In the [Animal Toss](https://edu.sphero.com/remixes/370784) game, a group of students toss a Sphero and guess a random animal based on sound. Guessing wrong means you have to act out the animal. The [program](https://edu.sphero.com/remixes/370784) reads accelerometer data, and if the robot feels > 3G, it will play a random animal sound on the instructors mobile app. Animals include: Alligator, Bear, Bird , Cat, Chicken, Cow, Dog, Dolphin, Donkey, Duck, Elephant, Frog, Horse, Horse Gallop, Lion, Monkey, Pig, Rooster, Sea Lion, Sheep, Tiger, Whale.
 
-![Animal Toss Program](https://github.com/profcase/sphero-edu-getting-started/blob/master/AnimalToss.PNG "Animal Toss Program")
+![Animal Toss Program](https://github.com/profcase/sphero-edu-getting-started/raw/master/AnimalToss.PNG "Animal Toss Program")
 
 ## Hello Bearcat!
 
@@ -129,7 +129,7 @@ async function startProgram() {
 
 ## Sphero Mini x 30
 
-![Sphero Mini x 30](https://github.com/profcase/sphero-edu-getting-started/blob/master/SpheroEdu30.PNG "Sphero Mini x 30")
+![Sphero Mini x 30](https://github.com/profcase/sphero-edu-getting-started/raw/master/SpheroEdu30.PNG "Sphero Mini x 30")
 
 ## Acknowledgements
 
