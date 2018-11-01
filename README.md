@@ -97,7 +97,7 @@ Note: If you create a program with blocks, it will show you the JavaScript. If y
 
 In the [Animal Toss](https://edu.sphero.com/remixes/370784) game, a group of students toss a Sphero and guess a random animal based on sound. Guessing wrong means you have to act out the animal. The [program](https://edu.sphero.com/remixes/370784) reads accelerometer data, and if the robot feels > 3G, it will play a random animal sound on the instructors mobile app. Animals include: Alligator, Bear, Bird , Cat, Chicken, Cow, Dog, Dolphin, Donkey, Duck, Elephant, Frog, Horse, Horse Gallop, Lion, Monkey, Pig, Rooster, Sea Lion, Sheep, Tiger, Whale.
 
-![Animal Toss Program](https://github.com/profcase/sphero-edu-getting-started/raw/master/AnimalToss.PNG "Animal Toss Program")
+![Animal Toss Program](https://raw.githubusercontent.com/profcase/sphero-edu-getting-started/master/AnimalToss.PNG "Animal Toss Program")
 
 ## Hello Bearcat!
 
